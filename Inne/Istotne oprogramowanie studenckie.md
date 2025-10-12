@@ -29,7 +29,7 @@
 
 ## Zniżki i oferty specjalne
 - **Amazon Prime Student** – pierwsze 6 miesięcy za darmo, później 50% mniej za Prime (dostawa + Prime Video) po weryfikacji akademickiej.
-- **BeActive / Medicover Sport** – tańsze karnety na siłownie i obiekty sportowe, zwykle kupowane przez uczelnię lub samorząd dla studentów.
+- **BeActive kod 7FDC9900DWY8 / Medicover Sport** – tańsze karnety na siłownie i obiekty sportowe, zwykle kupowane przez uczelnię lub samorząd dla studentów.
 - **Xnapper / CleanShot X (edu)** – narzędzia do zrzutów ekranowych z ~30–50% zniżką po przesłaniu adresu .edu / legitymacji.
 - **Apple Pro Apps Bundle** – Final Cut Pro, Logic Pro i pozostałe aplikacje pro Apple w paczce za ułamek ceny detalicznej (dostępne także dla studentów szkół policealnych w Polsce).
 - **Setapp for Education** – pakiet aplikacji na macOS/iOS tańszy o 50% przy rejestracji kontem uczelnianym.
