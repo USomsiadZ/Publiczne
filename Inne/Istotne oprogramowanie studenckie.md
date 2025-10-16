@@ -1,5 +1,5 @@
-# Istotne oprogramowanie studenckie
-
+# Istotne oprogramowanie studenckie 
+- Perplexity https://plex.it/referrals/HV29SQCB rok za darmo
 ## Kursy i platformy edukacyjne
 - **Microsoft Learn Student Hub** – ścieżki szkoleniowe, sandboksy Azure oraz certyfikaty (m.in. Azure Fundamentals) dostępne bezpłatnie.
 - **Google Cloud Skills Boost for Students** – darmowe kredyty na laboratoria Qwiklabs i ścieżki certyfikacyjne Google Cloud.
